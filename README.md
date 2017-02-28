@@ -3,6 +3,7 @@ mirrord
 
 A simple event-driven HTTP/1.0 server daemon in C for POSIX systems for hosting files.
 Created as an assessment piece for UQ's 2015 COMP3301 course.
+The http parser included is a low dependency library by another author who no longer is hosting their work.
 
 *For more information, see `assignment1.pdf`*
 
